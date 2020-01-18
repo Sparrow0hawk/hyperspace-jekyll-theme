@@ -1,0 +1,37 @@
+whoWeAre:
+- name: CEO
+  img: pic01.jpg
+  text: "Phasellus convallis elit id ullamcorper pulvinar.
+         Duis aliquam turpis mauris, eu ultricies
+         erat malesuada quis. Aliquam dapibus."
+- name: Director
+  img: pic02.jpg
+  text: "Phasellus convallis elit id ullamcorper
+         pulvinar. Duis aliquam turpis mauris, eu
+         ultricies erat malesuada quis. Aliquam dapibus."
+- name: Lead Developer
+  img: pic03.jpg
+  text: "Phasellus convallis elit id ullamcorper
+         pulvinar. Duis aliquam turpis mauris, eu
+         ultricies erat malesuada quis. Aliquam dapibus."
+
+whatWeDo:
+- name: Magic
+  style: code
+  text: Magic is magic is magic. We do magic.
+- name: Data Science
+  style: lock
+  text: Data science is not magic. It's science, sort of...
+- name: Analytical ultracentrifugation
+  style: cog
+  text: Analytical ultracentrifugation (AUC) definitely is
+        science. Find the size of your stuff with AUC!
+- name: Websites
+  style: desktop
+  text: We do websites, like this one, only in jekyll though.
+- name: Cloud computing
+  style: chain
+  text: The cloud is big and cool, you should use it!
+- name: Extras
+  style: diamond
+  text: Some extra placeholder text goes here.
