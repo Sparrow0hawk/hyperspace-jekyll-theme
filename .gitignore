@@ -1,0 +1,6 @@
+# gitignore for hyperspace-jekyll-theme
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadatas
